@@ -9,6 +9,17 @@ Text translated on translate.google EN. - Text in PT-BR
 
 # Project
 
+# ***Analysis using SQL and Python integration***
+
+Meteora's database is made up of tables focused on sales. This means that each table has a Meteora sales sector as its theme. This is the material that we will work with in our project.
+
+The first table, called items_orders, refers to the product that was ordered. Then, we find information about the product, such as value, shipping and state where it was sent.
+
+The orders table refers to the sale made, providing information about who sold it, what it was sold, value and other data.
+
+The third product table provides data such as the name, brand and condition of the product. Finally, the last sellers table refers to the names of the sellers who made the sales.
+
+
 
 ---
 ***PT-BR***
